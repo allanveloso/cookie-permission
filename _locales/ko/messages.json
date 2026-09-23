@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "쿠키 권한"
+  },
+  "extDescription": {
+    "message": "알림 권한처럼, 사이트가 쿠키를 저장하기 전에 먼저 확인합니다."
+  },
+  "actionTitle": {
+    "message": "이 사이트의 쿠키 권한"
+  },
+  "promptTitle": {
+    "message": "$SITE$에서 쿠키를 저장하려고 합니다",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "이 사이트에서 쿠키가 허용되었습니다."
+  },
+  "stateSessionOnly": {
+    "message": "브라우저를 닫을 때까지 쿠키가 허용됩니다."
+  },
+  "stateBlock": {
+    "message": "이 사이트에서 쿠키가 차단되었습니다."
+  },
+  "buttonAllow": {
+    "message": "허용"
+  },
+  "buttonSessionOnly": {
+    "message": "브라우저를 닫을 때까지 허용"
+  },
+  "buttonBlock": {
+    "message": "차단"
+  },
+  "buttonForget": {
+    "message": "이 사이트에 대한 선택 초기화"
+  },
+  "buttonClose": {
+    "message": "닫기"
+  }
+}

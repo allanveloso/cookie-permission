@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "הרשאת קובצי Cookie"
+  },
+  "extDescription": {
+    "message": "מבקש אישור לפני שאתר יכול לשמור קובצי Cookie, בדיוק כמו שהדפדפן שואל לגבי התראות."
+  },
+  "actionTitle": {
+    "message": "הרשאת קובצי Cookie לאתר זה"
+  },
+  "promptTitle": {
+    "message": "$SITE$ רוצה לשמור קובצי Cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "קובצי Cookie מותרים באתר זה."
+  },
+  "stateSessionOnly": {
+    "message": "קובצי Cookie מותרים עד לסגירת הדפדפן."
+  },
+  "stateBlock": {
+    "message": "קובצי Cookie חסומים באתר זה."
+  },
+  "buttonAllow": {
+    "message": "אישור"
+  },
+  "buttonSessionOnly": {
+    "message": "אישור עד לסגירת הדפדפן"
+  },
+  "buttonBlock": {
+    "message": "חסימה"
+  },
+  "buttonForget": {
+    "message": "איפוס הבחירה שלי לאתר זה"
+  },
+  "buttonClose": {
+    "message": "סגירה"
+  }
+}

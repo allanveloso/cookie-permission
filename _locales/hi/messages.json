@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "कुकी अनुमति"
+  },
+  "extDescription": {
+    "message": "किसी साइट के कुकी सेव करने से पहले पूछता है, जैसे ब्राउज़र सूचनाओं के लिए पूछता है।"
+  },
+  "actionTitle": {
+    "message": "इस साइट के लिए कुकी अनुमति"
+  },
+  "promptTitle": {
+    "message": "$SITE$ कुकी सेव करना चाहती है",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "इस साइट पर कुकी की अनुमति है।"
+  },
+  "stateSessionOnly": {
+    "message": "ब्राउज़र बंद करने तक कुकी की अनुमति है।"
+  },
+  "stateBlock": {
+    "message": "इस साइट पर कुकी ब्लॉक हैं।"
+  },
+  "buttonAllow": {
+    "message": "अनुमति दें"
+  },
+  "buttonSessionOnly": {
+    "message": "ब्राउज़र बंद होने तक अनुमति दें"
+  },
+  "buttonBlock": {
+    "message": "ब्लॉक करें"
+  },
+  "buttonForget": {
+    "message": "इस साइट के लिए मेरी पसंद भूल जाएं"
+  },
+  "buttonClose": {
+    "message": "बंद करें"
+  }
+}

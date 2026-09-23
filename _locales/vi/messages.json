@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Quyền cookie"
+  },
+  "extDescription": {
+    "message": "Hỏi trước khi trang web có thể lưu cookie, giống như trình duyệt hỏi về thông báo."
+  },
+  "actionTitle": {
+    "message": "Quyền cookie cho trang web này"
+  },
+  "promptTitle": {
+    "message": "$SITE$ muốn lưu cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Cookie được cho phép trên trang web này."
+  },
+  "stateSessionOnly": {
+    "message": "Cookie được cho phép cho đến khi bạn đóng trình duyệt."
+  },
+  "stateBlock": {
+    "message": "Cookie bị chặn trên trang web này."
+  },
+  "buttonAllow": {
+    "message": "Cho phép"
+  },
+  "buttonSessionOnly": {
+    "message": "Cho phép đến khi đóng trình duyệt"
+  },
+  "buttonBlock": {
+    "message": "Chặn"
+  },
+  "buttonForget": {
+    "message": "Quên lựa chọn của tôi cho trang web này"
+  },
+  "buttonClose": {
+    "message": "Đóng"
+  }
+}

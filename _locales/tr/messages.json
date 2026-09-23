@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Çerez İzni"
+  },
+  "extDescription": {
+    "message": "Bir site çerez depolamadan önce, tarayıcının bildirimler için yaptığı gibi size sorar."
+  },
+  "actionTitle": {
+    "message": "Bu site için çerez izni"
+  },
+  "promptTitle": {
+    "message": "$SITE$ çerez depolamak istiyor",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Bu sitede çerezlere izin veriliyor."
+  },
+  "stateSessionOnly": {
+    "message": "Tarayıcıyı kapatana kadar çerezlere izin veriliyor."
+  },
+  "stateBlock": {
+    "message": "Bu sitede çerezler engellendi."
+  },
+  "buttonAllow": {
+    "message": "İzin ver"
+  },
+  "buttonSessionOnly": {
+    "message": "Tarayıcı kapanana kadar izin ver"
+  },
+  "buttonBlock": {
+    "message": "Engelle"
+  },
+  "buttonForget": {
+    "message": "Bu site için seçimimi unut"
+  },
+  "buttonClose": {
+    "message": "Kapat"
+  }
+}

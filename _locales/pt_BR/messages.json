@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Permissão de cookies"
+  },
+  "extDescription": {
+    "message": "Pergunta antes que um site possa salvar cookies, assim como o navegador faz com as notificações."
+  },
+  "actionTitle": {
+    "message": "Permissão de cookies para este site"
+  },
+  "promptTitle": {
+    "message": "$SITE$ quer salvar cookies",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Os cookies estão permitidos neste site."
+  },
+  "stateSessionOnly": {
+    "message": "Os cookies estão permitidos até você fechar o navegador."
+  },
+  "stateBlock": {
+    "message": "Os cookies estão bloqueados neste site."
+  },
+  "buttonAllow": {
+    "message": "Permitir"
+  },
+  "buttonSessionOnly": {
+    "message": "Permitir até fechar o navegador"
+  },
+  "buttonBlock": {
+    "message": "Bloquear"
+  },
+  "buttonForget": {
+    "message": "Esquecer minha escolha para este site"
+  },
+  "buttonClose": {
+    "message": "Fechar"
+  }
+}

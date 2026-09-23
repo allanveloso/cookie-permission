@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "مجوز کوکی"
+  },
+  "extDescription": {
+    "message": "پیش از اینکه سایتی بتواند کوکی ذخیره کند، از شما می‌پرسد؛ درست مثل مرورگر برای اعلان‌ها."
+  },
+  "actionTitle": {
+    "message": "مجوز کوکی برای این سایت"
+  },
+  "promptTitle": {
+    "message": "$SITE$ می‌خواهد کوکی ذخیره کند",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "کوکی‌ها در این سایت مجاز هستند."
+  },
+  "stateSessionOnly": {
+    "message": "کوکی‌ها تا زمان بستن مرورگر مجاز هستند."
+  },
+  "stateBlock": {
+    "message": "کوکی‌ها در این سایت مسدود هستند."
+  },
+  "buttonAllow": {
+    "message": "اجازه دادن"
+  },
+  "buttonSessionOnly": {
+    "message": "اجازه تا بستن مرورگر"
+  },
+  "buttonBlock": {
+    "message": "مسدود کردن"
+  },
+  "buttonForget": {
+    "message": "فراموش کردن انتخاب من برای این سایت"
+  },
+  "buttonClose": {
+    "message": "بستن"
+  }
+}

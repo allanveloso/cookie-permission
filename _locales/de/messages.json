@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookie-Berechtigung"
+  },
+  "extDescription": {
+    "message": "Fragt, bevor eine Website Cookies speichern darf – so wie der Browser bei Benachrichtigungen fragt."
+  },
+  "actionTitle": {
+    "message": "Cookie-Berechtigung für diese Website"
+  },
+  "promptTitle": {
+    "message": "$SITE$ möchte Cookies speichern",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Cookies sind auf dieser Website erlaubt."
+  },
+  "stateSessionOnly": {
+    "message": "Cookies sind erlaubt, bis du den Browser schließt."
+  },
+  "stateBlock": {
+    "message": "Cookies sind auf dieser Website blockiert."
+  },
+  "buttonAllow": {
+    "message": "Zulassen"
+  },
+  "buttonSessionOnly": {
+    "message": "Bis zum Schließen des Browsers zulassen"
+  },
+  "buttonBlock": {
+    "message": "Blockieren"
+  },
+  "buttonForget": {
+    "message": "Meine Auswahl für diese Website vergessen"
+  },
+  "buttonClose": {
+    "message": "Schließen"
+  }
+}

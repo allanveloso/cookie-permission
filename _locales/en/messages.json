@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookie Permission"
+  },
+  "extDescription": {
+    "message": "Asks before a site can store cookies, the same way the browser asks for notifications."
+  },
+  "actionTitle": {
+    "message": "Cookie permission for this site"
+  },
+  "promptTitle": {
+    "message": "$SITE$ wants to store cookies",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Cookies are allowed on this site."
+  },
+  "stateSessionOnly": {
+    "message": "Cookies are allowed until you close the browser."
+  },
+  "stateBlock": {
+    "message": "Cookies are blocked on this site."
+  },
+  "buttonAllow": {
+    "message": "Allow"
+  },
+  "buttonSessionOnly": {
+    "message": "Allow until browser closes"
+  },
+  "buttonBlock": {
+    "message": "Block"
+  },
+  "buttonForget": {
+    "message": "Forget my choice for this site"
+  },
+  "buttonClose": {
+    "message": "Close"
+  }
+}

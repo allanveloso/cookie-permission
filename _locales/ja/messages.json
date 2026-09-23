@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookie の許可"
+  },
+  "extDescription": {
+    "message": "通知と同じように、サイトが Cookie を保存する前に確認します。"
+  },
+  "actionTitle": {
+    "message": "このサイトの Cookie の許可"
+  },
+  "promptTitle": {
+    "message": "$SITE$ が Cookie の保存を求めています",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "このサイトでは Cookie が許可されています。"
+  },
+  "stateSessionOnly": {
+    "message": "ブラウザを閉じるまで Cookie が許可されています。"
+  },
+  "stateBlock": {
+    "message": "このサイトでは Cookie がブロックされています。"
+  },
+  "buttonAllow": {
+    "message": "許可"
+  },
+  "buttonSessionOnly": {
+    "message": "ブラウザを閉じるまで許可"
+  },
+  "buttonBlock": {
+    "message": "ブロック"
+  },
+  "buttonForget": {
+    "message": "このサイトの選択をリセット"
+  },
+  "buttonClose": {
+    "message": "閉じる"
+  }
+}

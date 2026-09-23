@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookie 權限"
+  },
+  "extDescription": {
+    "message": "在網站儲存 Cookie 之前先徵求你的同意，就像瀏覽器詢問通知權限一樣。"
+  },
+  "actionTitle": {
+    "message": "此網站的 Cookie 權限"
+  },
+  "promptTitle": {
+    "message": "$SITE$ 想要儲存 Cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "此網站可以使用 Cookie。"
+  },
+  "stateSessionOnly": {
+    "message": "在關閉瀏覽器之前可以使用 Cookie。"
+  },
+  "stateBlock": {
+    "message": "此網站的 Cookie 已遭封鎖。"
+  },
+  "buttonAllow": {
+    "message": "允許"
+  },
+  "buttonSessionOnly": {
+    "message": "允許，直到關閉瀏覽器"
+  },
+  "buttonBlock": {
+    "message": "封鎖"
+  },
+  "buttonForget": {
+    "message": "忘記我對此網站的選擇"
+  },
+  "buttonClose": {
+    "message": "關閉"
+  }
+}

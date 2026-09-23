@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookietoestemming"
+  },
+  "extDescription": {
+    "message": "Vraagt toestemming voordat een site cookies kan opslaan, net zoals de browser dat doet voor meldingen."
+  },
+  "actionTitle": {
+    "message": "Cookietoestemming voor deze site"
+  },
+  "promptTitle": {
+    "message": "$SITE$ wil cookies opslaan",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Cookies zijn toegestaan op deze site."
+  },
+  "stateSessionOnly": {
+    "message": "Cookies zijn toegestaan tot je de browser sluit."
+  },
+  "stateBlock": {
+    "message": "Cookies zijn geblokkeerd op deze site."
+  },
+  "buttonAllow": {
+    "message": "Toestaan"
+  },
+  "buttonSessionOnly": {
+    "message": "Toestaan tot de browser sluit"
+  },
+  "buttonBlock": {
+    "message": "Blokkeren"
+  },
+  "buttonForget": {
+    "message": "Mijn keuze voor deze site vergeten"
+  },
+  "buttonClose": {
+    "message": "Sluiten"
+  }
+}

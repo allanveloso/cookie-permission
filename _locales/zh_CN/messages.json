@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Cookie 权限"
+  },
+  "extDescription": {
+    "message": "在网站存储 Cookie 之前先征求您的同意，就像浏览器询问通知权限一样。"
+  },
+  "actionTitle": {
+    "message": "此网站的 Cookie 权限"
+  },
+  "promptTitle": {
+    "message": "$SITE$ 想要存储 Cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "此网站允许使用 Cookie。"
+  },
+  "stateSessionOnly": {
+    "message": "在关闭浏览器之前允许使用 Cookie。"
+  },
+  "stateBlock": {
+    "message": "此网站的 Cookie 已被屏蔽。"
+  },
+  "buttonAllow": {
+    "message": "允许"
+  },
+  "buttonSessionOnly": {
+    "message": "允许，直到关闭浏览器"
+  },
+  "buttonBlock": {
+    "message": "屏蔽"
+  },
+  "buttonForget": {
+    "message": "忘记我对此网站的选择"
+  },
+  "buttonClose": {
+    "message": "关闭"
+  }
+}

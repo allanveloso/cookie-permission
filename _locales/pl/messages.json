@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Uprawnienia plików cookie"
+  },
+  "extDescription": {
+    "message": "Pyta, zanim witryna będzie mogła zapisywać pliki cookie – tak jak przeglądarka pyta o powiadomienia."
+  },
+  "actionTitle": {
+    "message": "Uprawnienia plików cookie dla tej witryny"
+  },
+  "promptTitle": {
+    "message": "Witryna $SITE$ chce zapisywać pliki cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Pliki cookie są dozwolone w tej witrynie."
+  },
+  "stateSessionOnly": {
+    "message": "Pliki cookie są dozwolone do zamknięcia przeglądarki."
+  },
+  "stateBlock": {
+    "message": "Pliki cookie są zablokowane w tej witrynie."
+  },
+  "buttonAllow": {
+    "message": "Zezwól"
+  },
+  "buttonSessionOnly": {
+    "message": "Zezwól do zamknięcia przeglądarki"
+  },
+  "buttonBlock": {
+    "message": "Blokuj"
+  },
+  "buttonForget": {
+    "message": "Zapomnij mój wybór dla tej witryny"
+  },
+  "buttonClose": {
+    "message": "Zamknij"
+  }
+}

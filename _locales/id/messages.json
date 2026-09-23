@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Izin Cookie"
+  },
+  "extDescription": {
+    "message": "Meminta izin sebelum situs dapat menyimpan cookie, sama seperti browser meminta izin notifikasi."
+  },
+  "actionTitle": {
+    "message": "Izin cookie untuk situs ini"
+  },
+  "promptTitle": {
+    "message": "$SITE$ ingin menyimpan cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "Cookie diizinkan di situs ini."
+  },
+  "stateSessionOnly": {
+    "message": "Cookie diizinkan hingga browser ditutup."
+  },
+  "stateBlock": {
+    "message": "Cookie diblokir di situs ini."
+  },
+  "buttonAllow": {
+    "message": "Izinkan"
+  },
+  "buttonSessionOnly": {
+    "message": "Izinkan hingga browser ditutup"
+  },
+  "buttonBlock": {
+    "message": "Blokir"
+  },
+  "buttonForget": {
+    "message": "Lupakan pilihan saya untuk situs ini"
+  },
+  "buttonClose": {
+    "message": "Tutup"
+  }
+}

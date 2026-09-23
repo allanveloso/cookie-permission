@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "إذن ملفات تعريف الارتباط"
+  },
+  "extDescription": {
+    "message": "يطلب الإذن قبل أن يتمكن أي موقع من تخزين ملفات تعريف الارتباط، تمامًا كما يفعل المتصفح مع الإشعارات."
+  },
+  "actionTitle": {
+    "message": "إذن ملفات تعريف الارتباط لهذا الموقع"
+  },
+  "promptTitle": {
+    "message": "يريد $SITE$ تخزين ملفات تعريف الارتباط",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "ملفات تعريف الارتباط مسموح بها على هذا الموقع."
+  },
+  "stateSessionOnly": {
+    "message": "ملفات تعريف الارتباط مسموح بها حتى إغلاق المتصفح."
+  },
+  "stateBlock": {
+    "message": "ملفات تعريف الارتباط محظورة على هذا الموقع."
+  },
+  "buttonAllow": {
+    "message": "السماح"
+  },
+  "buttonSessionOnly": {
+    "message": "السماح حتى إغلاق المتصفح"
+  },
+  "buttonBlock": {
+    "message": "الحظر"
+  },
+  "buttonForget": {
+    "message": "نسيان اختياري لهذا الموقع"
+  },
+  "buttonClose": {
+    "message": "إغلاق"
+  }
+}

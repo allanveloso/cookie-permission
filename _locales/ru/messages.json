@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Разрешение на cookie"
+  },
+  "extDescription": {
+    "message": "Спрашивает, прежде чем сайт сможет сохранять файлы cookie, — как браузер спрашивает про уведомления."
+  },
+  "actionTitle": {
+    "message": "Разрешение на cookie для этого сайта"
+  },
+  "promptTitle": {
+    "message": "Сайт $SITE$ хочет сохранять файлы cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "На этом сайте файлы cookie разрешены."
+  },
+  "stateSessionOnly": {
+    "message": "Файлы cookie разрешены до закрытия браузера."
+  },
+  "stateBlock": {
+    "message": "На этом сайте файлы cookie заблокированы."
+  },
+  "buttonAllow": {
+    "message": "Разрешить"
+  },
+  "buttonSessionOnly": {
+    "message": "Разрешить до закрытия браузера"
+  },
+  "buttonBlock": {
+    "message": "Блокировать"
+  },
+  "buttonForget": {
+    "message": "Забыть мой выбор для этого сайта"
+  },
+  "buttonClose": {
+    "message": "Закрыть"
+  }
+}

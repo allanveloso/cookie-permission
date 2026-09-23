@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "สิทธิ์คุกกี้"
+  },
+  "extDescription": {
+    "message": "ถามก่อนที่เว็บไซต์จะจัดเก็บคุกกี้ได้ เหมือนที่เบราว์เซอร์ถามเรื่องการแจ้งเตือน"
+  },
+  "actionTitle": {
+    "message": "สิทธิ์คุกกี้สำหรับเว็บไซต์นี้"
+  },
+  "promptTitle": {
+    "message": "$SITE$ ต้องการจัดเก็บคุกกี้",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "อนุญาตคุกกี้ในเว็บไซต์นี้แล้ว"
+  },
+  "stateSessionOnly": {
+    "message": "อนุญาตคุกกี้จนกว่าคุณจะปิดเบราว์เซอร์"
+  },
+  "stateBlock": {
+    "message": "บล็อกคุกกี้ในเว็บไซต์นี้แล้ว"
+  },
+  "buttonAllow": {
+    "message": "อนุญาต"
+  },
+  "buttonSessionOnly": {
+    "message": "อนุญาตจนกว่าจะปิดเบราว์เซอร์"
+  },
+  "buttonBlock": {
+    "message": "บล็อก"
+  },
+  "buttonForget": {
+    "message": "ล้างตัวเลือกของฉันสำหรับเว็บไซต์นี้"
+  },
+  "buttonClose": {
+    "message": "ปิด"
+  }
+}

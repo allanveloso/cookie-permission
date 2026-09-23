@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Дозвіл на cookie"
+  },
+  "extDescription": {
+    "message": "Запитує, перш ніж сайт зможе зберігати файли cookie, — як браузер запитує про сповіщення."
+  },
+  "actionTitle": {
+    "message": "Дозвіл на cookie для цього сайту"
+  },
+  "promptTitle": {
+    "message": "Сайт $SITE$ хоче зберігати файли cookie",
+    "placeholders": {
+      "site": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "stateAllow": {
+    "message": "На цьому сайті файли cookie дозволено."
+  },
+  "stateSessionOnly": {
+    "message": "Файли cookie дозволено до закриття браузера."
+  },
+  "stateBlock": {
+    "message": "На цьому сайті файли cookie заблоковано."
+  },
+  "buttonAllow": {
+    "message": "Дозволити"
+  },
+  "buttonSessionOnly": {
+    "message": "Дозволити до закриття браузера"
+  },
+  "buttonBlock": {
+    "message": "Блокувати"
+  },
+  "buttonForget": {
+    "message": "Забути мій вибір для цього сайту"
+  },
+  "buttonClose": {
+    "message": "Закрити"
+  }
+}
